@@ -1,0 +1,10 @@
+.SignupWrapper{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-top: 150px;
+    width: 300px;
+    left:40%;
+    height: 150px;
+    justify-content:space-around
+}
